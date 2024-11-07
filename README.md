@@ -1,7 +1,8 @@
 # Rising Raindrops Animation
 A JavaScript animation project creating colourful rising drops that grow as they float upward.
-^
+
 I started the Khan Academy Course on computer programming. This was one of the excercises. I worked on it with an AI assistant, asking questions and advice (and sometimes encouragement!) on the way. I have included links to the tools and the course. After working on it, I asked Claude.ai to summarise our conversation and provide a tutorial. I then asked it to write the code as a x10 developer to provide an example of something to aspire to. I then asked it to write me a "comparison.md" so I could learn the differences between what I did and what I could do as I gain more experience.
+
 
 ## Project Overview
 This project demonstrates fundamental programming concepts through an interactive animation. It shows how to:
